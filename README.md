@@ -9,8 +9,8 @@ Author: Alan Roldan
 
 Template:
 
-<img src="https://www.dropbox.com/home/FOTOS/GitHub?preview=modelOne.gif" width="150">
-<img src="https://www.dropbox.com/home/FOTOS/GitHub?preview=modelTwo.gif" width="150">
+<img src="modelOne.gif" width="150">
+<img src="modelTwo.gif" width="150">
 
 
 Files:
