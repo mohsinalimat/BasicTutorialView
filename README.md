@@ -1,6 +1,6 @@
 # BasicTutorialView
-Descripcion:
-    This is a template to create an initial tutorial for your application. It allows you to create very quickly and without difficulty.
+
+This is a template to create an initial tutorial for your application. It allows you to create very quickly and without difficulty.
 
 Lenguage: Swift 2
 
