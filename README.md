@@ -3,7 +3,7 @@ This is a template to create an initial tutorial for your application. It allows
 
 Template:
 
-![alt tag](imageModel.png)
+<img src="models.png" width="450">
 
 
 Files:
