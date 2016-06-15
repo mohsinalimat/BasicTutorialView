@@ -8,11 +8,14 @@ Template:
 
 Files:
 
-    1. BasicTutorialView for Swift2: the files for use this template. you must move these files within your project.
+    1. Example for ios9: 
+        This is a example project.B
 
-    2. Example for ios9: This is a example project.
+    2. BasicTutorialView for Swift2: 
+        The files for use this template. you must move these files within your project.
 
-How to do?
+
+How to use?
 
     1. Create a variable of type windowView():
             let window = windowView()
