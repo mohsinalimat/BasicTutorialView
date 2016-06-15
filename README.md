@@ -38,7 +38,7 @@ How to use?
     4. instantiate object:
             window.modelTwo(self, arrayImages: self.imagesArray, arrayTitles: self.titlesArray)
 
-Important:
+
 <img src="http://www.floridauniversitaria.es/es-ES/noticias/PublishingImages/aviso_importante.png" width="30"> Images should be square size only. (example: 512x512/1024x1024 etc..)
 
 
