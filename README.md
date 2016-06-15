@@ -1,6 +1,10 @@
 # BasicTutorialView
 this is a simple template to create views for tutorials
 
+Template:
+
+![alt tag](image_example/modelOne.png)
+
 
 Files:
 
