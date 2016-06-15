@@ -1,5 +1,5 @@
 # BasicTutorialView
-this is a simple template to create views for tutorials
+This is a template to create an initial tutorial for your application. It allows you to create very quickly and without difficulty.
 
 Template:
 
@@ -13,6 +13,7 @@ Files:
 
     2. BasicTutorialView for Swift2: 
         The files for use this template. you must move these files within your project.
+
 
 
 How to use?
