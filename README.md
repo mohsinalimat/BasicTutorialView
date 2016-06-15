@@ -7,10 +7,10 @@ Lenguage: Swift 2
 Author: Alan Roldan
 
 
-Template:
+Examples:
 
-<img src="modelOne.gif" width="150">
-<img src="modelTwo.gif" width="150">
+<img src="modelOne.gif" width="250">
+<img src="modelTwo.gif" width="250">
 
 
 Files:
