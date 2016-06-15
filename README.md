@@ -9,7 +9,7 @@ Template:
 Files:
 
     1. Example for ios9: 
-        This is a example project.B
+        This is a example project.
 
     2. BasicTutorialView for Swift2: 
         The files for use this template. you must move these files within your project.
