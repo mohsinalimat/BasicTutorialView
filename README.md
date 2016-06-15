@@ -14,7 +14,7 @@ Template:
 
 Files:
 
-    1. Example for ios9: 
+    1. Example_BasicTutorialView: 
         This is a example project.
 
     2. BasicTutorialView for Swift2: 
