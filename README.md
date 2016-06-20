@@ -2,7 +2,7 @@
 
 This is a template to create an initial tutorial for your application. It allows you to create very quickly and without difficulty.
 
-Lenguage: Swift 2
+Lenguage: Swift 2 & Swift 3
 
 Author: Alan Roldan
 
