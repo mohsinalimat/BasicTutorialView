@@ -29,21 +29,21 @@ Author: Alan Roldan
 
 ## How to use?
 
-    1. Create a variable of type windowView():
+Create a variable of type windowView():
 ``` swift
 let window = windowView() 
 ```
-2. Import images and create a array of images:
+Import images and create a array of images:
 ``` swift
 let imagesArray = [String]()
 imagesArray = ["img1","img2","img3","img4"]
 ```
-3. Create a array of titles:
+Create a array of titles:
 ```swift
 let titlesArray = [String]()
 titlesArray = ["title of image 1","title of image 2","title of image 3","title of image 4"]
 ```
-4. instantiate object:
+instantiate object:
 ```swift
 window.modelTwo(self, arrayImages: self.imagesArray, arrayTitles: self.titlesArray)
 ```
