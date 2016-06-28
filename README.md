@@ -12,7 +12,7 @@ Author: Alan Roldan
 <img src="modelOne.gif" width="210">
 
 
-Example modelTwo:
+## Example modelTwo:
 
 <img src="modelTwo.gif" width="210">
 
@@ -31,25 +31,22 @@ Example modelTwo:
 
     1. Create a variable of type windowView():
 ``` swift
-let window = windowView() ```
-
-    2. Import images and create a array of images:
+let window = windowView() 
+```
+2. Import images and create a array of images:
 ``` swift
 let imagesArray = [String]()
 imagesArray = ["img1","img2","img3","img4"]
 ```
-
-    3. Create a array of titles:
+3. Create a array of titles:
 ```swift
 let titlesArray = [String]()
 titlesArray = ["title of image 1","title of image 2","title of image 3","title of image 4"]
 ```
-
-    4. instantiate object:
+4. instantiate object:
 ```swift
 window.modelTwo(self, arrayImages: self.imagesArray, arrayTitles: self.titlesArray)
 ```
-
 
 <img src="http://www.floridauniversitaria.es/es-ES/noticias/PublishingImages/aviso_importante.png" width="30"> Images should be square size only. (example: 512x512/1024x1024 etc..)
 
