@@ -7,7 +7,7 @@ Lenguage: Swift 2 & Swift 3
 Author: Alan Roldan
 
 
-Example modelOne:
+## Example modelOne:
 
 <img src="modelOne.gif" width="210">
 
@@ -17,7 +17,7 @@ Example modelTwo:
 <img src="modelTwo.gif" width="210">
 
 
-Files:
+## Files:
 
     1. Example_BasicTutorialView: 
         This is a example project.
@@ -27,21 +27,28 @@ Files:
 
 
 
-How to use?
+## How to use?
 
     1. Create a variable of type windowView():
-            let window = windowView()
+``` swift
+let window = windowView() ```
 
     2. Import images and create a array of images:
-            let imagesArray = [String]()
-            imagesArray = ["img1","img2","img3","img4"]
+``` swift
+let imagesArray = [String]()
+imagesArray = ["img1","img2","img3","img4"]
+```
 
     3. Create a array of titles:
-            let titlesArray = [String]()
-            titlesArray = ["title of image 1","title of image 2","title of image 3","title of image 4"]
+```swift
+let titlesArray = [String]()
+titlesArray = ["title of image 1","title of image 2","title of image 3","title of image 4"]
+```
 
     4. instantiate object:
-            window.modelTwo(self, arrayImages: self.imagesArray, arrayTitles: self.titlesArray)
+```swift
+window.modelTwo(self, arrayImages: self.imagesArray, arrayTitles: self.titlesArray)
+```
 
 
 <img src="http://www.floridauniversitaria.es/es-ES/noticias/PublishingImages/aviso_importante.png" width="30"> Images should be square size only. (example: 512x512/1024x1024 etc..)
